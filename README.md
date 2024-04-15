@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rishavtarway@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aJnurUtq7j1UpjHCxCjTf6nIyBdrqcO1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18APKoVmIsT8VmvMMFlJWa8flb4w2Sxol/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
