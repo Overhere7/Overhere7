@@ -43,7 +43,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=overhere7&show_icons=true&locale=en" alt="overhere7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=overhere7&" alt="overhere7" /></p>
-<p><img align="center" src="https://www.holopin.io/hacktoberfest2024/userbadge/cm1sys6f8116960clgtfyxvz8i" alt="overhere7" /></p>
+<img align="center" src="https://www.holopin.io/hacktoberfest2024/userbadge/cm1sys6f8116960clgtfyxvz8i" alt="overhere7" />
 
 
 
