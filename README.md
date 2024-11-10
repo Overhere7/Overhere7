@@ -43,7 +43,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=overhere7&show_icons=true&locale=en" alt="overhere7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=overhere7&" alt="overhere7" /></p>
-<img align="center" src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="overhere7" width="200px" height="200px"/>
-
+<h1 align="left">Hacktoberfest 2024 Contribution </h1>
+<a href="https://www.holopin.io/@overhere79#badges" target="_blank" ><img src="https://holopin.me/overhere79" width="100%"></a>
 
 
